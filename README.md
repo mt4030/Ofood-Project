@@ -1,8 +1,6 @@
 
 
-#  Omnifood – AI-Powered Healthy Meal Subscription landing page
-
-**Omnifood** is a fully responsive AI-powered meal subscription website. It offers personalized meal plans, healthy recipes, and convenient delivery — all designed with modern HTML, CSS, and JavaScript.
+#  Omnifood – Healthy Meal  landing page
 
 ---
 
